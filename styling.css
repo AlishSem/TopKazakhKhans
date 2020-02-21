@@ -1,7 +1,14 @@
-div {
+.opening {
   font-size: 18px;
   border-style: solid;
   border-radius: 25px;
   border-color: #C64A2F;
   text-align: center;
+  margin: 40px;
+  padding: 10px;
+}
+.subtitle {
+  text-align: center;
+  color: black;
+  margin: 40px;
 }
